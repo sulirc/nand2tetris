@@ -9,6 +9,8 @@
  *       0 otherwise
  */
 
+// And = Nand()
+
 CHIP And {
     IN a, b;
     OUT out;
